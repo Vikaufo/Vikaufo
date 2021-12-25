@@ -9,8 +9,12 @@
 - [Postman](https://github.com/Vikaufo/Postman)
 - [SQL](https://github.com/Vikaufo/SQL)
 
-![Terminal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.ru%2Fpng-y77ds8%2F&psig=AOvVaw3dLxaWEvy2QMij2PEYtmFd&ust=1640545486532000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLig6MnS__QCFQAAAAAdAAAAABAD)
-![Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8A0Z5b1G6H7K9_logo-git-git-icon%2F&psig=AOvVaw0H3LkXHsqMTLzV6h2R6QVC&ust=1640545507082000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDLtvXS__QCFQAAAAAdAAAAABAD)
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/md_icon.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/terminal_icon.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/git_icon.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postman_icon%2022.35.53.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/Dbeaver_logo.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postgresql_icon.png" width="50">
 
 ### 📬 Сontact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff??style=flat&logo=LinkedIn&logoColor=2964be)](https://www.linkedin.com/in/vshablova/)
