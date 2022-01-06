@@ -10,7 +10,7 @@
 - [SQL](https://github.com/Vikaufo/SQL)
 
 ### 🛠 Tools:
-<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/md_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/terminal_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/git_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postman_icon%2022.35.53.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/Dbeaver_logo.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postgresql_icon.png" width="50">
+<img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/md_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/terminal_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/git_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postman_icon%2022.35.53.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/Dbeaver_logo.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/postgresql_icon.png" width="50"> <img src="https://raw.githubusercontent.com/Vikaufo/Vikaufo/main/Assets/DevTools_icon.png" width="50">
 
 ### 📬 Сontact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff??style=flat&logo=LinkedIn&logoColor=2964be)](https://www.linkedin.com/in/vshablova/)
